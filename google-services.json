@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1083580494874",
+    "project_id": "pawcare-app-af30e",
+    "storage_bucket": "pawcare-app-af30e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083580494874:android:da893e1011c9efb397cda3",
+        "android_client_info": {
+          "package_name": "com.pawcare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083580494874-846rcsdpnt68muol44t0p5q7uomptg9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SCG5QeNPgpHr201-I6Zo-1Zhffdg5HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083580494874-846rcsdpnt68muol44t0p5q7uomptg9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+

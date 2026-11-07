@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Standalone Web
+pawcare-web/
+PawCare Mobile App UI Design/
+PawCare Mobile App UI Design-v2/
+promo-video-pawcare.html
+
+expo-env.d.ts
